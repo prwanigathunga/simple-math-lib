@@ -1,4 +1,4 @@
-# simple_math.py
+# math_lib.py
 
 def add(a, b):
     """Return the sum of two numbers."""
